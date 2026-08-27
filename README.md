@@ -1,51 +1,63 @@
-# 👨🏻‍💻 Hello, I'm Jaehoon Jung!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5bc0de,100:3b82f6&height=160&section=header"/>
 
-<div align="left">
-  <a href="mailto:david040430@naver.com"><img src="https://img.shields.io/badge/Email-00C73C?style=flat-square&logo=naver&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jaehoon-jung-36391b339"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</div>
+## Hi there, I'm Jaehoon 👋
 
-<br>
+I'm an undergraduate student majoring in **Computer Engineering**, preparing for graduate studies in AI. I am deeply interested in exploring **AI Agents, HCI (Human-Computer Interaction), and HAI (Human-AI Interaction)**.
 
-### 🎯 About Me
-**사용자 중심의 AI와 상호작용(HCI/HAI)을 연구하는 예비 연구자**입니다. 
-단순한 기능 구현을 넘어 기술이 인간의 삶에 자연스럽게 스며드는 방법을 탐구하며, AI Agent와 RAG 파이프라인 구축에 관심이 많습니다. 기획의 언어와 개발의 언어를 모두 이해하는 백엔드 개발 경험을 바탕으로, 실용적이고 영향력 있는 연구를 목표로 합니다.
+- Interested in **AI Agents**, **HCI / HAI**, and **Backend Architecture**
+- Currently researching and building projects connecting **AI Pipelines and Backend Services**
 
-- 🎓 **Hongik University** | Computer Engineering (2023.03 ~)
-- 🔬 **Sungkyunkwan University AAA Lab** | Undergraduate Research Assistant (2026.09.01 ~)
-- 🚀 **Interested in** | AI Agents, Human-Computer Interaction (HCI), Human-AI Interaction (HAI)
+Please feel free to contact me at david040430@naver.com or connect on [LinkedIn](https://www.linkedin.com/in/jaehoon-jung-36391b339)
 
----
+## Education
 
-### 🛠️ Tech Stack
-<div align="left">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <!-- AI / Data -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</div>
+**Hongik University**
+- B.S. in **Computer Engineering** | (Mar 2023 – Present)
 
----
+## Research & Activities
 
-### 🚀 Projects & Experience
-- **AAA Lab (Sungkyunkwan Univ.)** | 학부연구생 (2026.09 ~ )
-- **캠퍼스야 (CampusYA)** | PM & 백엔드 개발 총괄 - AI 기반 텍스트 리랭킹 및 프롬프트 최적화 적용
-- **무장애 지도 서비스 '베프'** | 백엔드 팀장 - 배리어프리 접근성 지도 API 개발
-- **BOAZ (빅데이터 연합 동아리)** | 분석 파트 27기 - 데이터 분석 및 서비스 MVP 기획
-- **GDGoC Hongik** | DevRel Team - 개발 커뮤니티 활성화 기획
+- **Sungkyunkwan University AAA Lab** — Undergraduate Research Assistant | (Sep 2026 – Present)
+- **BOAZ (Big Data Club)** — 27th Analysis Part & Tech Blog Staff | (Aug 2026 – Present)
+- **CampusYA (AI Campus Utility Service)** — PM & Backend Lead | (Oct 2025 – Present)
+- **BEF (Barrier-Free Map Service)** — Backend Team Leader 
+- **GDGoC Hongik** — DevRel Team | (Jul 2024 – Dec 2024)
+- **Hongik Univ. Badminton Club 'Kok'** — Planning Dept Staff | (Jul 2023 – Aug 2024)
+- **UMC (University MakeUs Challenge)** — 7th SpringBoot Challenger
+- **SKADA (SK AI Data Academy)** — Beginner & Intermediate Trainee
+- **KAIST AI/SW Intensive Course for Military Personnel** — Trainee
 
----
+## Awards & Certifications
 
-### 📊 GitHub Stats & Algorithm
+- **Prize Winner** — Alliance Student's Venture Forum (ASVF) Korea Preliminary Round
+- **TOEIC 730**
+
+## Technical Skills
+
+#### Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+#### AI & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+#### Tools
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+
+## GitHub Stats & Algorithm
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JaehoonJung0430&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaehoonJung0430&layout=compact&theme=transparent" height="150"/>
-</div>
-<br>
-<div align="left">
   <a href="https://solved.ac/JaehoonJung0430">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=david040430" height="150"/>
   </a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5bc0de,100:3b82f6&height=120&section=footer"/>
