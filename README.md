@@ -14,14 +14,20 @@ Please feel free to contact me at david040430@naver.com or connect on [LinkedIn]
 **Hongik University**
 - B.S. in **Computer Engineering** | (Mar 2023 – Present)
 
-## Research & Activities
+## Experience & Activities
 
+### 🔬 Research & Projects
 - **Sungkyunkwan University AAA Lab** — Undergraduate Research Assistant | (Sep 2026 – Present)
-- **BOAZ (Big Data Club)** — 27th Analysis Part & Tech Blog Staff | (Aug 2026 – Present)
 - **CampusYA (AI Campus Utility Service)** — PM & Backend Lead | (Oct 2025 – Jun 2026)
-- **BF (Barrier-Free Map Service)** — Backend Team Leader 
+- **BF (Barrier-Free Map Service)** — Backend Team Leader
+- **OnBoarding (Comprehensive learning platform)** - Backend Develop
+
+### 👥 Communities & Clubs
+- **BOAZ (Big Data Club)** — 27th Analysis Part & Tech Blog Staff | (Aug 2026 – Present)
 - **GDGoC Hongik** — DevRel Team | (Jul 2024 – Dec 2024)
 - **Hongik Univ. Badminton Club 'COK'** — Planning Dept Staff | (Jul 2023 – Aug 2024)
+
+### 📚 Education & Training
 - **UMC (University MakeUs Challenge)** — 7th SpringBoot Challenger
 - **SKADA (SK AI Data Academy)** — Beginner & Intermediate Trainee
 - **KAIST AI/SW Intensive Course for Military Personnel** — Trainee
