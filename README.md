@@ -18,31 +18,35 @@ Please feel free to contact me at david040430@naver.com or connect on [LinkedIn]
 
 - **Sungkyunkwan University AAA Lab** — Undergraduate Research Assistant | (Sep 2026 – Present)
 - **BOAZ (Big Data Club)** — 27th Analysis Part & Tech Blog Staff | (Aug 2026 – Present)
-- **CampusYA (AI Campus Utility Service)** — PM & Backend Lead | (Oct 2025 – Present)
-- **BEF (Barrier-Free Map Service)** — Backend Team Leader 
+- **CampusYA (AI Campus Utility Service)** — PM & Backend Lead | (Oct 2025 – Jun 2026)
+- **BF (Barrier-Free Map Service)** — Backend Team Leader 
 - **GDGoC Hongik** — DevRel Team | (Jul 2024 – Dec 2024)
-- **Hongik Univ. Badminton Club 'Kok'** — Planning Dept Staff | (Jul 2023 – Aug 2024)
+- **Hongik Univ. Badminton Club 'COK'** — Planning Dept Staff | (Jul 2023 – Aug 2024)
 - **UMC (University MakeUs Challenge)** — 7th SpringBoot Challenger
 - **SKADA (SK AI Data Academy)** — Beginner & Intermediate Trainee
 - **KAIST AI/SW Intensive Course for Military Personnel** — Trainee
 
-## Awards & Certifications
+## Awards
 
 - **Prize Winner** — Alliance Student's Venture Forum (ASVF) Korea Preliminary Round
-- **TOEIC 730**
 
 ## Technical Skills
 
-#### Backend
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 #### AI & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+#### Backend
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 #### Tools
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
@@ -54,7 +58,7 @@ Please feel free to contact me at david040430@naver.com or connect on [LinkedIn]
 
 ## GitHub Stats & Algorithm
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaehoonJung0430&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaehoonJung0430&theme=transparent" height="150"/>
   <a href="https://solved.ac/JaehoonJung0430">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=david040430" height="150"/>
   </a>
