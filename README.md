@@ -56,16 +56,11 @@ Please feel free to contact me at david040430@naver.com or connect on [LinkedIn]
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
-## GitHub Stats & Algorithm
-
+## BOJ Algorithm
 <div align="left">
   <a href="https://solved.ac/JaehoonJung0430">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=david040430" height="150"/>
   </a>
-</div>
-<br>
-<div align="left">
-  <img src="https://ghchart.rshah.org/3b82f6/JaehoonJung0430" alt="GitHub Contributions" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5bc0de,100:3b82f6&height=120&section=footer"/>
